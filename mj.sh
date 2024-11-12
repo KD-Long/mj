@@ -1,5 +1,7 @@
 #!/bin/bash
 
+### Requires: brew install cliclick
+
 # Interval in seconds
 INTERVAL=298
 
